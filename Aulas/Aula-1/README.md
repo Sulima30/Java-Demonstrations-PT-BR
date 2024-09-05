@@ -25,6 +25,7 @@ Vamos escrever nosso primeiro programa! Cada trecho de código terá comentário
 ### Comentários em Java
 
 - **Utilizando `//`**: Comentário de linha única. Tudo que estiver após o `//` é ignorado pelo compilador. Pode ser usado para explicar algo antes ou após um método/função.
+
   ```java
   // Comentário em linha
 
