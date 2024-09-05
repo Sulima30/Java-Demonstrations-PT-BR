@@ -9,5 +9,5 @@ IDE é um ambiente de desenvolvimento integrado que podemos utilizar para facili
 ### Principais componentes de uma IDE:
 Aqui explicaremos alguns componentes presentes numa IDE.
 - **Editor de Código**
-  Serve para que nós desenvolvedores possamos escrever os nossos códigos.
+Serve para que nós desenvolvedores possamos escrever os nossos códigos.
 - **Compilador/Interpretador**
