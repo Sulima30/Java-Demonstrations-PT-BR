@@ -31,7 +31,7 @@ Vamos escrever nosso primeiro programa! Cada trecho de código terá comentário
 
 - **Utilizando `/* */`**: Utilizar `/* */ ` faz com que o comentário vire um bloco de código. Ou seja, ocupará múltiplas linhas. Exemplo de um bloco de comentário:
 
-```java
+  ```java
   /* 
   * Comentário em bloco de código
   * Ocupando múltiplas linhas 
