@@ -5,10 +5,9 @@
  * Linguagem Java. Versão 22
  * Descrição: Esta aula de operadores visa iniciar os conceitos da linguagem JAVA referentes a saídas e entradas de dados na tela do usuário envolvendo operações matemáticas. Aqui não colocamos funções de loop, condicionais, entre outros tratamentos. Apenas algo conceitual para entender quais operadores matemáticos podemos utilizar.
 */
-
 import java.util.Scanner; //Classe Scanner que servirá para ler as entrada do usuário
 
-public class OperadoresAritmeticos {
+public class OperadoresAritmeticosBasicos {
 	
 	public static void main (String [] args) {
 		
