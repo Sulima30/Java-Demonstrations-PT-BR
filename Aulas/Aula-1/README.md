@@ -36,3 +36,12 @@ Vamos escrever nosso primeiro programa! Cada trecho de código terá comentário
   * Comentário em bloco de código
   * Ocupando múltiplas linhas 
   */
+  
+- **Utilizando `/** */ (Javadoc)`**: Utilizar `/** e */  ` faz com que o comentário proporcione o desenvolvedor gerar documentação HTML. Geralmente é usado para documentar classes, métodos e campos. As tags Javadoc como @param, @return, e @see são usadas para fornecer informações adicionais:
+
+  ```java
+  /**
+   * Comentário Javadoc
+   * @param parâmetro descrição
+   * @return descrição
+   */
