@@ -40,3 +40,9 @@ Você deverá verificar onde está o arquivo .java na estrutura de diretórios d
    ```bash
    java Main
 
+Após realizar a compilação e execução do código do seu aplicativo feito em java, podemos realizar códigos e testar nossa lógica de programação.
+
+- Na pasta Aulas, temos alguns exemplos de códigos para auxiliar você que é novo na linguagem e quer aprender no detalhe.
+
+- Na pasta Projetos, teremos alguns mini projetos para você poder utilizar como inspiração para seus projetos.
+
