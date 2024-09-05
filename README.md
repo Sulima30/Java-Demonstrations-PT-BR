@@ -1,2 +1,33 @@
 # Java-Demonstrations-PT-BR
 Coleção de aulas demonstrativas e mini projetos desenvolvidos em java a fim de auxiliar estudantes de tecnologia, bem como profissionais que buscam uma interação e troca de conhecimentos sobre a linguagem de progamação Java. Estou montando o repositório aos poucos para deixar o mais organizado possível.
+
+# Guia de Execução do Programa em Java
+
+## Instrução
+
+A seguir daremos algumas instruções sobre como compilar e executar um programa Java a partir da linha de comando.
+
+## Requisitos
+
+- Kit de Desenvolvimento Java (JDK) instalado em seu sistema.
+- Conhecimento básico sobre operações na linha de comando.
+
+## Estrutura do Diretório
+
+Você deverá verificar onde está o arquivo .java na estrutura de diretórios do seu computador.
+
+## Acessando o Diretório
+
+1. **Abra o Terminal ou Prompt de Comando**:
+   - No Windows, você pode usar o Prompt de Comando ou PowerShell.
+   - No macOS ou Linux, abra o Terminal.
+
+2. **Navegue até o Diretório do Seu Projeto**:
+   Use o comando `cd`  para navegar até o diretório onde seu arquivo Java está localizado. Por exemplo:
+
+   ```bash
+   cd caminho/para/seu-diretorio-do-projeto
+
+
+
+
