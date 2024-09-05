@@ -28,6 +28,15 @@ Você deverá verificar onde está o arquivo .java na estrutura de diretórios d
    ```bash
    cd caminho/para/seu-diretorio-do-projeto
 
+3. **Compile o Arquivo Java:**:
+   Use o comando javac (compilador Java) para compilar seu arquivo Java. Por exemplo, se seu arquivo se chama Main.java, execute:
 
+   ```bash
+   javac Main.java
 
+4. **Execute o Programa Java Compilado:**:
+   Use o comando java para executar o arquivo .class compilado. Por exemplo:
+
+   ```bash
+   java Main
 
