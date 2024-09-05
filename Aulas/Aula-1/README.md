@@ -45,3 +45,30 @@ Vamos escrever nosso primeiro programa! Cada trecho de código terá comentário
    * @param parâmetro descrição
    * @return descrição
    */
+
+Comentário são ótimos para explicar o código e torná-lo mais compreensível, legível para que um próximo desenvolvedor saiba o que foi feito ou até mesmo você que fez o código possa se lembrar do que fez, qual foi a intenção etc.
+
+## Dicas e Observações
+
+- **Legibilidade do Código**: Utilize linhas em branco, espaços e tabs para melhorar a legibilidade do código. Isso ajuda a tornar o código mais limpo e mais fácil de entender.
+
+- **Nomenclatura de Classes**: Em Java, `class` é uma palavra reservada utilizada para definir classes. Os nomes das classes devem começar com uma letra maiúscula e seguir a convenção de CamelCase (exemplo: `AulaIntrodutoria`). Evite usar letras minúsculas para nomes de classes.
+
+- **Nomes de Classes**: Nomes de classes podem incluir letras, dígitos, sublinhados e o caractere `$`. No entanto, não podem iniciar com dígitos e não devem conter espaços. Exemplos válidos incluem `Aula1`, `Aula_Um`, `$Aula1`, e `AulaUm`. Escolha nomes que sejam claros e descritivos.
+
+- **Tipo de Dados e Distinção de Maiúsculas e Minúsculas**: Java é uma linguagem fortemente tipada e faz distinção entre maiúsculas e minúsculas. Certifique-se de usar a capitalização correta para evitar erros.
+
+- **Estrutura de Classe**: O corpo de uma classe começa com `{` e termina com `}`. Todos os métodos e variáveis pertencentes à classe devem estar dentro desses colchetes.
+
+- **Finalização de Instruções**: Em Java, cada instrução deve terminar com um ponto e vírgula (`;`). A omissão do ponto e vírgula resultará em erros de compilação.
+
+- **Caracteres de Escape**: Use caracteres de escape para incluir caracteres especiais em strings ou para formatar a saída. Exemplos de caracteres de escape:
+  - `\n` para pular uma linha
+  - `\t` para realizar uma tabulação horizontal
+  - `\\` para incluir uma barra invertida
+  - `\"` para incluir aspas
+
+- **Compilação e Execução**: Para compilar um programa Java, abra o terminal na pasta onde o arquivo `.java` está localizado e digite `javac NomeDoArquivo.java`. Isso gerará um arquivo `.class`. Para executar o programa, use o comando `java NomeDoArquivo` (não inclua a extensão `.java`).
+
+Essas dicas ajudarão a manter seu código Java organizado e a evitar erros comuns durante a programação.
+
